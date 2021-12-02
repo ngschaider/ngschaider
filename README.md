@@ -2,8 +2,8 @@
 
 <!-- - 🔭 I’m currently working on [gsys-proxy][gsys-proxy], [gsys-accounts][gsys-accounts] and [gsys-dashboard][gsys-dashboard] -->
 <!-- - 🌱 I’m currently learning [Rust][rust-lang] -->
-- 📫 How to reach me: @niklasgschaider OR [niklas.gschaider@gschaider-systems.at][email]
-- 🍺 Fun fact: I'm brewing Beer 
+<!-- - 📫 How to reach me: @niklasgschaider OR [niklas.gschaider@gschaider-systems.at][email]
+- 🍺 Fun fact: I'm brewing Beer -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
